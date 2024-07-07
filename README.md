@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Rabiee</h1>
-<h3 align="center">Computer Engineering student from Iran</h3>
+<h3 align="center">Computer Engineering student @ Birjand University</h3>
 
 - 📫 How to reach me **amir.rabiee2001@outlook.com**
 
